@@ -1,0 +1,5 @@
+{
+  "name": "BookStream",
+  "description": "An interactive community platform for book trailers, author profiles, and reader reviews, powered by AI-generated content.",
+  "requestFramePermissions": []
+}
